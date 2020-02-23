@@ -1,4 +1,5 @@
 # MagaZee
 Bootstrap template (Magazine)
-Html5 + bootstrap
++ HTML5 
++ bootstrap
 + Font awesome
