@@ -1,0 +1,2 @@
+# MagaZee
+Bootstrap template (Magazine)
